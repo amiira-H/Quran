@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Welcome to Git Lab
+ Welcome to Git Lab
 =======
 # Quran Explorer
 
